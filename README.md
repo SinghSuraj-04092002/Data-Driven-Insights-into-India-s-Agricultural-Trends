@@ -1,2 +1,2 @@
-# PRODIGY_DS_02
-Welcome to the repository for my Agriculture Data EDA project, completed during my Data Science internship at Prodigy Infotech. This project focuses on analyzing agricultural data to uncover trends, patterns, and insights aimed at addressing the food demands of India's growing population.
+# Data-Driven Insights into India’s Agricultural Trends
+This project explores agricultural data to uncover meaningful patterns in crop production, yield, and regional performance across India. Using exploratory data analysis (EDA) techniques, the study focuses on identifying trends, detecting anomalies, and visualizing key insights. The goal is to better understand how agricultural outputs align with the growing food demands and to provide a foundation for data-driven decision-making in the agriculture sector.
